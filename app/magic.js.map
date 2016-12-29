@@ -1,0 +1,1 @@
+{"version":3,"file":"magic.js","sourceRoot":"","sources":["magic.ts"],"names":[],"mappings":"AAAA;IACI,YAAY,CAAC,UAAkB,UAAU;QACrC,MAAM,CAAC,OAAO,GAAG,YAAY,CAAC;IAClC,CAAC;CACJ;AAED,IAAI,OAAO,GAAG,IAAI,OAAO,EAAE,CAAC;AAC5B,OAAO,CAAC,YAAY,CAAC,OAAO,CAAC,CAAC"}
